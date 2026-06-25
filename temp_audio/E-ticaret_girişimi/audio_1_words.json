@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Merhaba",
+    "start": 0.1,
+    "end": 0.7875
+  },
+  {
+    "text": "Bugün",
+    "start": 1.8625,
+    "end": 2.5125
+  },
+  {
+    "text": "size",
+    "start": 2.5125,
+    "end": 2.85
+  },
+  {
+    "text": "E-ticaret",
+    "start": 2.85,
+    "end": 3.5125
+  },
+  {
+    "text": "girişimi",
+    "start": 3.525,
+    "end": 3.9625
+  },
+  {
+    "text": "sektöründeki",
+    "start": 3.9625,
+    "end": 4.675
+  },
+  {
+    "text": "kazançlar",
+    "start": 4.675,
+    "end": 5.3625
+  },
+  {
+    "text": "ve",
+    "start": 5.5875,
+    "end": 5.7125
+  },
+  {
+    "text": "giderler",
+    "start": 5.7125,
+    "end": 6.2375
+  },
+  {
+    "text": "hakkında",
+    "start": 6.2375,
+    "end": 6.6875
+  },
+  {
+    "text": "bilgi",
+    "start": 6.6875,
+    "end": 7.0
+  },
+  {
+    "text": "vereceğiz",
+    "start": 7.0,
+    "end": 7.5875
+  }
+]

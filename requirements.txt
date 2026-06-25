@@ -1,0 +1,11 @@
+moviepy==1.0.3
+python-dotenv
+huggingface-hub
+edge-tts
+requests
+numpy
+Pillow
+imageio-ffmpeg
+torch
+torchvision
+torchaudio

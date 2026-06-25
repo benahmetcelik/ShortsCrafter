@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Eczane",
+    "start": 0.1,
+    "end": 0.975
+  },
+  {
+    "text": "sektorunde",
+    "start": 0.975,
+    "end": 1.575
+  },
+  {
+    "text": "calisanlarin",
+    "start": 1.575,
+    "end": 2.375
+  },
+  {
+    "text": "aylik",
+    "start": 2.375,
+    "end": 2.6875
+  },
+  {
+    "text": "giderleri",
+    "start": 2.6875,
+    "end": 3.2
+  },
+  {
+    "text": "genellikle",
+    "start": 3.2,
+    "end": 3.775
+  },
+  {
+    "text": "kira",
+    "start": 3.775,
+    "end": 4.125
+  },
+  {
+    "text": "personel",
+    "start": 4.35,
+    "end": 4.85
+  },
+  {
+    "text": "maaslari",
+    "start": 4.85,
+    "end": 5.3625
+  },
+  {
+    "text": "ilaclar",
+    "start": 5.5375,
+    "end": 6.075
+  },
+  {
+    "text": "ve",
+    "start": 6.075,
+    "end": 6.175
+  },
+  {
+    "text": "diger",
+    "start": 6.175,
+    "end": 6.525
+  },
+  {
+    "text": "malzemelerdir",
+    "start": 6.525,
+    "end": 7.3875
+  },
+  {
+    "text": "Ortalama",
+    "start": 8.6,
+    "end": 9.3375
+  },
+  {
+    "text": "aylik",
+    "start": 9.35,
+    "end": 9.7125
+  },
+  {
+    "text": "giderleri",
+    "start": 9.7125,
+    "end": 10.2625
+  },
+  {
+    "text": "15.000 TL",
+    "start": 10.275,
+    "end": 11.5
+  },
+  {
+    "text": "civarindadir",
+    "start": 11.5,
+    "end": 12.3
+  }
+]

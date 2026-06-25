@@ -1,0 +1,117 @@
+[
+  {
+    "text": "Eczane",
+    "start": 0.1,
+    "end": 0.95
+  },
+  {
+    "text": "sahipleri",
+    "start": 0.95,
+    "end": 1.5125
+  },
+  {
+    "text": "genellikle",
+    "start": 1.5125,
+    "end": 2.125
+  },
+  {
+    "text": "aylik",
+    "start": 2.1375,
+    "end": 2.5
+  },
+  {
+    "text": "ortalama",
+    "start": 2.5,
+    "end": 3.0625
+  },
+  {
+    "text": "25.000 TL",
+    "start": 3.1,
+    "end": 4.3875
+  },
+  {
+    "text": "kazanmaktadir",
+    "start": 4.3875,
+    "end": 5.2125
+  },
+  {
+    "text": "Gelirlerinin",
+    "start": 6.4125,
+    "end": 7.3625
+  },
+  {
+    "text": "buyuk",
+    "start": 7.3625,
+    "end": 7.65
+  },
+  {
+    "text": "bir",
+    "start": 7.65,
+    "end": 7.8375
+  },
+  {
+    "text": "kismi",
+    "start": 7.8375,
+    "end": 8.175
+  },
+  {
+    "text": "ilaclarin",
+    "start": 8.175,
+    "end": 8.725
+  },
+  {
+    "text": "satisindan",
+    "start": 8.725,
+    "end": 9.45
+  },
+  {
+    "text": "gelirken",
+    "start": 9.4625,
+    "end": 10.0625
+  },
+  {
+    "text": "kucuk",
+    "start": 10.2125,
+    "end": 10.55
+  },
+  {
+    "text": "bir",
+    "start": 10.55,
+    "end": 10.7375
+  },
+  {
+    "text": "kisim",
+    "start": 10.7375,
+    "end": 11.0875
+  },
+  {
+    "text": "da",
+    "start": 11.0875,
+    "end": 11.2
+  },
+  {
+    "text": "kisisel",
+    "start": 11.2,
+    "end": 11.725
+  },
+  {
+    "text": "bakim",
+    "start": 11.725,
+    "end": 12.1375
+  },
+  {
+    "text": "urunlerinden",
+    "start": 12.1375,
+    "end": 12.75
+  },
+  {
+    "text": "elde",
+    "start": 12.775,
+    "end": 13.025
+  },
+  {
+    "text": "edilmektedir",
+    "start": 13.025,
+    "end": 13.725
+  }
+]

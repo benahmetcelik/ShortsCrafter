@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Merhaba",
+    "start": 0.1,
+    "end": 0.7875
+  },
+  {
+    "text": "Bugün",
+    "start": 1.8625,
+    "end": 2.475
+  },
+  {
+    "text": "emlakçılık",
+    "start": 2.4875,
+    "end": 3.125
+  },
+  {
+    "text": "sektöründeki",
+    "start": 3.125,
+    "end": 3.8375
+  },
+  {
+    "text": "gelir",
+    "start": 3.8375,
+    "end": 4.175
+  },
+  {
+    "text": "ve",
+    "start": 4.2875,
+    "end": 4.4125
+  },
+  {
+    "text": "giderler",
+    "start": 4.4125,
+    "end": 4.9375
+  },
+  {
+    "text": "hakkında",
+    "start": 4.9375,
+    "end": 5.3875
+  },
+  {
+    "text": "bilgi",
+    "start": 5.3875,
+    "end": 5.7
+  },
+  {
+    "text": "vereceğiz",
+    "start": 5.7,
+    "end": 6.3
+  }
+]

@@ -1,0 +1,5 @@
+services:
+  video-bot:
+    build: .
+    volumes:
+      - .:/app

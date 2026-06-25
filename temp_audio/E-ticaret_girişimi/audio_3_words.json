@@ -1,0 +1,67 @@
+[
+  {
+    "text": "E-ticaret",
+    "start": 0.1,
+    "end": 1.0
+  },
+  {
+    "text": "girişimi",
+    "start": 1.025,
+    "end": 1.45
+  },
+  {
+    "text": "sahipleri",
+    "start": 1.45,
+    "end": 2.0125
+  },
+  {
+    "text": "ise",
+    "start": 2.0125,
+    "end": 2.3625
+  },
+  {
+    "text": "aylık",
+    "start": 2.5875,
+    "end": 2.9
+  },
+  {
+    "text": "ortalama",
+    "start": 2.9,
+    "end": 3.45
+  },
+  {
+    "text": "10.000 TL",
+    "start": 3.5125,
+    "end": 4.675
+  },
+  {
+    "text": "50.000 TL",
+    "start": 4.9,
+    "end": 5.9
+  },
+  {
+    "text": "arasında",
+    "start": 5.9,
+    "end": 6.3875
+  },
+  {
+    "text": "bir",
+    "start": 6.3875,
+    "end": 6.575
+  },
+  {
+    "text": "gelir",
+    "start": 6.575,
+    "end": 6.85
+  },
+  {
+    "text": "elde",
+    "start": 6.85,
+    "end": 7.1
+  },
+  {
+    "text": "edebilirler",
+    "start": 7.1,
+    "end": 7.7875
+  }
+]
